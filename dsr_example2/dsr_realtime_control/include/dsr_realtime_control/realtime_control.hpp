@@ -34,7 +34,8 @@
 #include <atomic>
 #include <mutex>
 
-#include "../../dsr_common2/include/DRFLEx.h"
+// #include "../../dsr_common2/include/DRFLEx.h"
+#include "DRFLEx.h"
 
 typedef struct {
     /* timestamp at the data of data acquisition */
